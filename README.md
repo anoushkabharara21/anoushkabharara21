@@ -1,33 +1,28 @@
-# Hi, I'm Anoushka Bharara 👋
+# Hi, I'm Anoushka Bharara
 
-🎓 Information Systems Student
+Information Systems student at The University of Texas at Dallas with an interest in Product Management, AI, data analytics, and building user-centered products.
 
-💼 Aspiring Product Manager
+## About
 
-🤖 Passionate about AI, Product Strategy, Product Analytics, and User Experience.
+I use this GitHub to document projects, product case studies, product specifications, and technical work as I continue developing my product management and analytical skills.
 
----
+## Current Focus
 
-## 🚀 Currently Building
+- Product Strategy
+- Product Analytics
+- SQL
+- AI Applications
+- Product Case Studies
+- User Research
 
-- 📚 Learning Product Management
-- 🤖 AI-powered product projects
-- 📊 SQL & Product Analytics
-- 📝 Product case studies
-- 🌐 Growing my GitHub portfolio
+## 2026 Goals
 
----
+- Build 12 product-focused projects
+- Publish 25 product case studies
+- Develop AI-powered applications
+- Strengthen SQL and Python skills
+- Document my learning through GitHub and LinkedIn
 
-## 🎯 2026 Goals
+## Connect
 
-- Build one product project every month
-- Write product specifications (PRDs)
-- Learn Git & GitHub
-- Share my journey on LinkedIn
-- Become a better product thinker
-
----
-
-## 📫 Connect with Me
-
-- LinkedIn: https://www.linkedin.com/in/anoushkabharara
+LinkedIn: linkedin.com/in/anoushkabharara
