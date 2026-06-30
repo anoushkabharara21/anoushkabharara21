@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Anoushka Bharara 👋
 
-<!--
-**anoushkabharara21/anoushkabharara21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Systems Student
 
-Here are some ideas to get you started:
+💼 Aspiring Product Manager
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Passionate about AI, Product Strategy, Product Analytics, and User Experience.
+
+---
+
+## 🚀 Currently Building
+
+- 📚 Learning Product Management
+- 🤖 AI-powered product projects
+- 📊 SQL & Product Analytics
+- 📝 Product case studies
+- 🌐 Growing my GitHub portfolio
+
+---
+
+## 🎯 2026 Goals
+
+- Build one product project every month
+- Write product specifications (PRDs)
+- Learn Git & GitHub
+- Share my journey on LinkedIn
+- Become a better product thinker
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/anoushkabharara
